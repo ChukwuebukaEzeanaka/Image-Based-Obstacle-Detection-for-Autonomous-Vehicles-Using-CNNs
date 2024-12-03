@@ -19,11 +19,11 @@ The project was developed by:
 Samson Kpolugbo
 
 Chukwuebuka Ezeanaka
-Ifeanyi Afoama
+
 Folashade Adewara
 
 Moses Oyinmiyenbi Kimiji
 
-
+Ifeanyi Afoama
 
 
