@@ -18,12 +18,7 @@ The project was developed by:
 
 Chukwuebuka Ezeanaka
 Folashade Adewara
-Samson Kpologbo	
-Okoye Akachukwu
-Patrick Okafor	
-Moses Oyinmiyenbi Kimiji
-Ifeanyi Afoama
-Taiwo Oladeji
+
 
 
 
