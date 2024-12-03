@@ -16,9 +16,13 @@ Focus Areas: Emphasis on computational speed, anomaly detection, and robust dete
 # Team Members
 The project was developed by:
 
+Samson Kpolugbo
+
 Chukwuebuka Ezeanaka
 Ifeanyi Afoama
 Folashade Adewara
+
+Moses Oyinmiyenbi Kimiji
 
 
 
