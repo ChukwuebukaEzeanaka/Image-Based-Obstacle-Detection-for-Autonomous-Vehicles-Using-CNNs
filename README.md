@@ -28,6 +28,6 @@ Moses Oyinmiyenbi Kimiji
 
 Ifeanyi Afoama
 
-Okoye Akachukwu Hyacienth
+Okoye Akachukwu H
 
 Patrick Okafor
