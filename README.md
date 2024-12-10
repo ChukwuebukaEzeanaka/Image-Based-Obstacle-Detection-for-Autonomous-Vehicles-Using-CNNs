@@ -31,3 +31,5 @@ Ifeanyi Afoama
 Okoye Akachukwu H
 
 Patrick Okafor
+
+## You can find the series of training in the runs/detect folder the last training done for this project was in Train9
